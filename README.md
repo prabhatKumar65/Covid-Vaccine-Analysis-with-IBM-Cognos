@@ -17,7 +17,7 @@ In a world grappling with the unprecedented challenges posed by the COVID-19 pan
 
 ## 🚀 Getting Started
 
-1. **Clone the Repository**: `git clone https://github.com/ADVindiancoder/COVID-19-Vaccine-Analytics.git`
+1. **Clone the Repository**: `git clone https://github.com//COVID-19-VacprabhatKumar65cine-Analytics.git`
 
 2. **Install Dependencies**: If required, install any necessary libraries or tools.
 
@@ -38,4 +38,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-For questions, feedback, or collaboration opportunities, please reach out to [My Portfolio](https://vinaykumaradv.netlify.app/).
