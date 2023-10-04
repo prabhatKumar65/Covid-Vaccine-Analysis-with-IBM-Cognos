@@ -32,9 +32,5 @@ In a world grappling with the unprecedented challenges posed by the COVID-19 pan
 
 Contributions are encouraged! Please review our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on contributing to this project.
 
-## 📝 License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## 📧 Contact
 
