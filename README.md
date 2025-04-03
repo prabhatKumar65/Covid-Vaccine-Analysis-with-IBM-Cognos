@@ -6,7 +6,7 @@ Welcome to the COVID-19 Vaccine Analytics project powered by IBM Cognos. This re
 
 ## 🌍 Project Overview
 
-In a world grappling with the unprecedented challenges posed by the COVID-19 pandemic, data-driven insights have become paramount. This project aims to empower users with actionable insights into vaccination progress, coverage, and more, using the robust capabilities of IBM Cognos.
+In a world grappling with the unprecedented challenges posed by the COVID-19 pandemic, data-driven insights have become paramount. This project aims to empower users with actionable insight into vaccination progress, coverage, and more, using the robust capabilities of IBM Cognos.
 
 ## ✨ Key Features
 
